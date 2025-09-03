@@ -1,0 +1,37 @@
+# Entorno virtual
+.venv/
+venv/
+ENV/
+env/
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Configuración local
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de base de datos temporales
+*.sqlite3
+
+# Configuración de PyCharm / JetBrains
+.idea/
+
+# Configuración de VSCode (por si acaso)
+.vscode/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Distribución / empaquetado
+build/
+dist/
+.eggs/
+*.egg-info/
+*.egg
