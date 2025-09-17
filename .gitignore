@@ -35,3 +35,7 @@ dist/
 .eggs/
 *.egg-info/
 *.egg
+
+# Workspace de VSCode
+/Curso Python pildorasinformaticas tutorizado/pildorasinformaticas.code-workspace
+/Curso Python pildorasinformaticas tutorizado/00_PDF

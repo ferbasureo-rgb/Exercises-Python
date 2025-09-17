@@ -1,0 +1,2 @@
+Comienzo del texto.estudiar Python 
+Esta línea ha sido incluida desde el exterior. Quiero añadir una nueva línea de texto.
